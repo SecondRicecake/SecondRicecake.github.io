@@ -13,7 +13,7 @@ Workend on:
 
 - Possession of Child Exploitation Material in Computer Temporary Internet Cache
 - Digital Forensic Readiness as Legal Requirement
-- User action recreation from IoT Forensics artifacts
+- Reconstructing user action from IoT Forensics artifacts
 - Expert Systems for Digital Forensics
 
 Currently working on:

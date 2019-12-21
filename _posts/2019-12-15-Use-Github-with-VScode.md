@@ -2,6 +2,7 @@
 title: "Github with VScode"
 categories:
   - howToStartStuff
+excerpt_separator: <!--more-->
 tags:
   - Github
   - VSCode
@@ -11,6 +12,8 @@ tags:
 ## Install
 
 First of all, you need to install the editor itself. Click on the link below to install _VS Code_ for your OS. Then, install _Git_ (NOT Github!!!).
+
+<!--more-->
 
 - [VSCode](https://code.visualstudio.com/) for your OS
 - [Git](https://git-scm.com/downloads) for your OS
