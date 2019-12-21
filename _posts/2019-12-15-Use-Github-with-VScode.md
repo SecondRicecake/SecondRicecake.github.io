@@ -1,8 +1,7 @@
 ---
 title: "Github with VScode"
-excerpt_separator: "<!--more-->"
 categories:
-  - funStuff
+  - howToStartStuff
 tags:
   - Github
   - VSCode
@@ -17,8 +16,6 @@ First of all, you need to install the editor itself. Click on the link below to 
 - [Git](https://git-scm.com/downloads) for your OS
 
 > Git is an opensource version control system to track changes on your files, and Github is a hosting service that uses Git to help developers to store their projects and other useful features.
-
-<!--more-->
 
 ## On Github
 
