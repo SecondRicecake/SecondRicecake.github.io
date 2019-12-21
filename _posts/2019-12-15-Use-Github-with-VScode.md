@@ -1,7 +1,7 @@
 ---
 title: "Github with VScode"
 categories:
-  - howToStartStuff
+  - how-to-start-stuff
 excerpt_separator: "<!--more-->"
 tags:
   - Github
