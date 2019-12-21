@@ -58,7 +58,7 @@ plugins:
 author:
   name: "Suz Park"
   avatar: "/assets/images/bio-photo.jpg"
-  bio: "Everything that goes through my brain."
+  bio: "My brain logs about how-to-start/academic-traslations/just-for-fun stuff."
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
