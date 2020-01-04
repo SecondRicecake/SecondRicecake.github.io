@@ -12,7 +12,7 @@ tags:
 ## Short Brainlog Post
 
 **Goal**: I want an easy way to reselect a piece of text I already formatted.\
-**Problem**: So how do I select a blot within the editor?\
+**Problem**: So how do I select a blot within the editor?
 
 **Solution**:
 
@@ -22,17 +22,16 @@ tags:
 4. Then use the `offset()` function taking _quill.scroll_ as a parameter. This will return the index of the blot.
 5. Use the `setSelection()` function to set the selection.
 
-```{js}
+```javascript
 const Parchment = Quill.import("parchment");
 
-document.addEventListener("click",()=>{
-    if (e.target){
-        let blot = Parchment.find(e.target);
-        let index = blot.offset(quill.scroll);
-        quill.setSelection(index, e.target.textContent.length);
-    }
+document.addEventListener("click", () => {
+  if (e.target) {
+    let blot = Parchment.find(e.target);
+    let index = blot.offset(quill.scroll);
+    quill.setSelection(index, e.target.textContent.length);
+  }
 });
-
 ```
 
 _This code was partially taken from [QuillJS Issue](https://github.com/quilljs/quill/issues/1115)_
