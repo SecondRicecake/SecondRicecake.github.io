@@ -11,7 +11,8 @@ tags:
 
 ## Short Brainlog Post
 
-**Goal**: I want an easy way to reselect a piece of text I already formatted.\
+**Goal**: I want an easy way to reselect a piece of text I already formatted.
+
 **Problem**: So how do I select a blot within the editor?
 
 **Solution**:
