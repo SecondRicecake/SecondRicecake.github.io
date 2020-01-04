@@ -1,11 +1,12 @@
 ---
 title: "Quill JS - how to find blot"
 categories:
-  - brainlog
+  - how-to-do-stuff
 excerpt_separator: "<!--more-->"
 tags:
   - QuillJS
   - Parchment
+  - Brainlog
 ---
 
 ## Short Brainlog Post
