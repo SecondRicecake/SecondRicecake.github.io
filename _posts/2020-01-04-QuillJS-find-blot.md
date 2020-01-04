@@ -1,5 +1,5 @@
 ---
-title: "Quill JS - how to find blot"
+title: "QuillJS - How to find blot"
 categories:
   - how-to-do-stuff
 excerpt_separator: "<!--more-->"
